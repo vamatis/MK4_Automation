@@ -5,7 +5,7 @@ Watch the [video](https://youtu.be/S4sWyfVj5go) where I go over how the MK4 mach
 <img src="images/Main_copy.jpg">
 
 # Ardunio
-
+You can find the arduino code for the project in the `/MK4_Automation` directory
 
 ## Libraries needed
 
