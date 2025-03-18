@@ -38,7 +38,7 @@ All these libraries can be easily installed using the Arduino IDE library manage
 - For the Buster Beagle 3D parts [CLICK HERE](https://www.busterbeagle3d.com/) 
 
 ## 3D Printed Parts
-Chceck on the `/3d_Printing` directory for parts.
+Chceck on the `/3D_Prints` directory for parts.
 
 ## MK3/MK4 frame PDF file
 [MK3/MK4 Frame Build](https://drive.google.com/file/d/1zg0rRujJQF1wtNAtguwyY8d_fwCQzAzu/view?usp=drive_link) Frame for the MK3 and MK4 builds are the same. 
