@@ -18,7 +18,8 @@ Many of these videos give you a better understanding of the evolution of this ma
 - [Recycling Plastic At Home](https://youtu.be/mXXFwO77XmE), Breaking down 3D prints and bottles for use in the machines.
 - [Heating Chamber Cleaning](https://youtu.be/_xt9IpcRtrc), Easy method to clean out the injection Molding chambers.
 - [MK2 Updates with PID Tuning](https://youtu.be/1GWBhMkB2vM), MK2 Updates as well as instructions for tuning the Rex PID Controller.
-- [Semi-Automatic version of the MK3 Machine](https://youtu.be/W7IDYLqGYVA), Semi Auto version of the machine where you can set an timed injection. 
+- [Semi-Automatic version of the MK3 Machine](https://youtu.be/W7IDYLqGYVA), Semi Auto version of the machine where you can set an timed injection.
+- [MK4 Machine working for 15 minutes](https://youtu.be/fdYek-q-E0g), MK4 Machine running for a full 15 mintues uncut. 
 
 
 # Ardunio
@@ -35,7 +36,7 @@ All these libraries can be easily installed using the Arduino IDE library manage
 
 ## MK4 BOM
 - You can find the full BOM of the parts needed [HERE](https://docs.google.com/spreadsheets/d/1JVG8-Zt6J-UAuxbnEOaoJAQSUpH0-k1IP8Y7-RxV8Eo/edit?usp=drive_link)
-- For the Buster Beagle 3D parts [CLICK HERE](https://www.busterbeagle3d.com/) 
+- For the Buster Beagle 3D Parts Website [CLICK HERE](https://www.busterbeagle3d.com/) 
 
 ## 3D Printed Parts
 Check in the `/3D_Prints` directory for parts.
