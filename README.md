@@ -2,7 +2,7 @@
 Watch the [video](https://youtu.be/S4sWyfVj5go) where I go over how the MK4 machine works. 
 <img src="images/Main_copy.jpg">
 
-## Buster Beagle 3D
+## Buster Beagle 3D on YouTube. 
 Many of these videos give you a better understanding of the evolution of this machine and might clear any questions on how it works and how to build it. 
 - [MK1 Injection Molding Machine](https://youtu.be/HoSVPHVESiE), The original and smaller hand crank desktop version.
 - [MK2 Injection Molding Machine](https://youtu.be/JqHPNjSaw4w), The upgraded version of the MK1 with a larger 2 Cubic inch shot volume.
