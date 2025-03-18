@@ -48,7 +48,7 @@ Check in the `/3D_Prints` directory for parts.
 #### [Purchase Vise Here](https://www.busterbeagle3d.com/product/aluminum-pneumatic-vise-kit/34?cs=true&cst=custom)
 - [MK4_Vise_Assembly PDF](https://drive.google.com/file/d/12hUAGlBEdqDP5q_SxHw-1Td8OqxFoPMN/view?usp=drive_link)
 - [MK4 Vise Assembly Video](https://youtu.be/MoHPu2ggeWM)
-- [MK4 Mold template](https://drive.google.com/file/d/1ILh0e-uNvjLMUA351t_ClR8Q0iGrUpfI/view?usp=drive_link) This is a mold template used to creat your own molds to fit onto the MK4 Vise. 
+- [MK4 Mold template](https://drive.google.com/file/d/1ILh0e-uNvjLMUA351t_ClR8Q0iGrUpfI/view?usp=drive_link) This is a mold template used to create your own molds to fit onto the MK4 Vise. 
 
 ## MK4 Wiring Diagram
 <img src="images/MK4_WiringDiagram.jpg">
