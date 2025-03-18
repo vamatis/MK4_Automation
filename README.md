@@ -15,3 +15,19 @@ All these libraries can be easily installed using the Arduino IDE library manage
 - `LiquidCrystal_I2C` by Frank de Brabander.
 - `avr/wdt` by AVR Libc.
 - `Servo` by Arduino.
+
+# MK4 BOM
+You can find the full BOM of the parts needed [here](https://docs.google.com/spreadsheets/d/1JVG8-Zt6J-UAuxbnEOaoJAQSUpH0-k1IP8Y7-RxV8Eo/edit?usp=drive_link)
+
+
+
+
+
+
+
+
+
+
+
+
+
