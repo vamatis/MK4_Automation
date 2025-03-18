@@ -33,8 +33,8 @@ All these libraries can be easily installed using the Arduino IDE library manage
 - `avr/wdt` by AVR Libc.
 - `Servo` by Arduino.
 
-# MK4 BOM
-You can find the full BOM of the parts needed [HERE](https://docs.google.com/spreadsheets/d/1JVG8-Zt6J-UAuxbnEOaoJAQSUpH0-k1IP8Y7-RxV8Eo/edit?usp=drive_link)
+## MK4 BOM
+- You can find the full BOM of the parts needed [HERE](https://docs.google.com/spreadsheets/d/1JVG8-Zt6J-UAuxbnEOaoJAQSUpH0-k1IP8Y7-RxV8Eo/edit?usp=drive_link)
 - For the Buster Beagle 3D parts [CLICK HERE](https://www.busterbeagle3d.com/) 
 
 ## MK3/MK4 frame PDF file
