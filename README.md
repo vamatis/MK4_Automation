@@ -25,10 +25,9 @@ You can find the full BOM of the parts needed [HERE](https://docs.google.com/spr
 [MK3/MK4 Frame Build](https://drive.google.com/file/d/1zg0rRujJQF1wtNAtguwyY8d_fwCQzAzu/view?usp=drive_link), Frame for the MK3 and MK4 builds are the same. The only difference would be the exclusion of the manual pneumatic button as well as longer upright aluminum extrusion, 10mm linear rods holding the triangle plate, and pnuematic cylinder if building the MK4 with the optional extension chamber. 
 
 # MK4 Vise
-## PDF File
 [MK4_Vise_Assembly PDF](https://drive.google.com/file/d/12hUAGlBEdqDP5q_SxHw-1Td8OqxFoPMN/view?usp=drive_link)
-## Video Assembly
 [MK4 Vise Assembly Video](https://youtu.be/MoHPu2ggeWM)
+
 # MK4 Wiring Diagram
 <img src="images/MK4_WiringDiagram.jpg">
 
