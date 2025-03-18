@@ -11,7 +11,7 @@ Many of these videos give you a better understanding of the evolution of this ma
 - [MK3 Injection Molding Machine](https://youtu.be/PvQU3Q8wwOU), The first vesion of the machine to introduce pneumatics, also increased volume to 3 Cubic Inches.
 - [MK4 Chamber and Vise Upgrades](https://youtu.be/dzYe9b0Iuzc), Talks about the first upgrades that convert an MK3 to and MK4 machine.
 
-## Other related videos dealing with these injection molding machines
+## Other related videos dealing with Buster Beagle 3D injection molding machines
 - [MK1 Machine in action](https://youtu.be/hsnGJBuQnsQ), Shows the working of the original MK1 Machine
 - [Cutting Aluminum Molds on a 3018 CNC](https://youtu.be/Yb_kre3Zwz0), Making molds with a hobby CNC Machine
 - [Recycling Plastic At Home](https://youtu.be/mXXFwO77XmE), Breaking down 3D prints and bottles for use in the machines.
