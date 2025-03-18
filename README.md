@@ -43,11 +43,13 @@ Check in the `/3D_Prints` directory for parts.
 
 ## MK3/MK4 frame PDF file
 [MK3/MK4 Frame Build](https://drive.google.com/file/d/1zg0rRujJQF1wtNAtguwyY8d_fwCQzAzu/view?usp=drive_link) Frame for the MK3 and MK4 builds are the same. 
+<img src="images/FrameBuild.jpg">
 - The only difference would be the exclusion of the manual pneumatic button as well as longer upright aluminum extrusion, 10mm linear rods holding the triangle plate, and pnuematic cylinder if building the MK4 with the optional extension chamber.
 - You can purchase a kit to build the MK3/M4 or MK4 Extended Version here: [FRAME KITS](https://inventorssource.com/product/busterbeagle-mk3-frame-kit/) 
 
-## MK4 Vise 
+## MK4 Vise
 #### [Purchase Vise Here](https://www.busterbeagle3d.com/product/aluminum-pneumatic-vise-kit/34?cs=true&cst=custom)
+<img src="images/PneumaticVice.jpg">
 - [MK4_Vise_Assembly PDF](https://drive.google.com/file/d/12hUAGlBEdqDP5q_SxHw-1Td8OqxFoPMN/view?usp=drive_link)
 - [MK4 Vise Assembly Video](https://youtu.be/MoHPu2ggeWM)
 - [MK4 Mold template](https://drive.google.com/file/d/1ILh0e-uNvjLMUA351t_ClR8Q0iGrUpfI/view?usp=drive_link) This is a mold template used to create your own molds to fit onto the MK4 Vise. 
