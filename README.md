@@ -19,8 +19,8 @@ All these libraries can be easily installed using the Arduino IDE library manage
 # MK4 BOM
 You can find the full BOM of the parts needed [here](https://docs.google.com/spreadsheets/d/1JVG8-Zt6J-UAuxbnEOaoJAQSUpH0-k1IP8Y7-RxV8Eo/edit?usp=drive_link)
 
-
-
+# MK4 Wiring Diagram
+<img src="images/MK4_WiringDiagram.jpg">
 
 
 
