@@ -5,6 +5,12 @@ Watch the [video](https://youtu.be/S4sWyfVj5go) where I go over how the MK4 mach
 <img src="images/Main_copy.jpg">
 
 ## Buster Beagle 3D
+Many of these videos give you a better understanding of the evolution of this machine and might clear any questions on how it works and how to build it. 
+- [MK1 Injection Molding Machine](https://youtu.be/HoSVPHVESiE), The original and smaller hand crank desktop version.
+- [MK2 Injection Molding Machine](https://youtu.be/JqHPNjSaw4w), The upgraded version of the MK1 with a larger 2 Cubic inch shot volume.
+- [MK3 Injection Molding Machine](https://youtu.be/PvQU3Q8wwOU), The first vesion of the machine to introduce pneumatics, also increased volume to 3 Cubic Inches.
+- [MK4 Chamber and Vise Upgrades](https://youtu.be/dzYe9b0Iuzc), Talks about the first upgrades that convert an MK3 to and MK4 machine. 
+
 # Ardunio
 You can find the arduino code for the project in the `/MK4_Automation` directory
 
