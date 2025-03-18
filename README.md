@@ -12,10 +12,16 @@ Many of these videos give you a better understanding of the evolution of this ma
 - [MK4 Chamber and Vise Upgrades](https://youtu.be/dzYe9b0Iuzc), Talks about the first upgrades that convert an MK3 to and MK4 machine.
 
 #### Other related videos dealing with Buster Beagle 3D injection molding machines
+- [3D PRINTED MOLDS](https://youtu.be/qJnGCyYruQ8), Process of turning an STL into a 3D printed mold
+- [FIBER LASER ENGRAVED INJECTION MOLDS](https://youtu.be/bhsx4LF5uKI), Using a 20W fiber laser to create an Aluminum Mold. 
 - [MK1 Machine in action](https://youtu.be/hsnGJBuQnsQ), Shows the working of the original MK1 Machine
+- [MK1 in Action Zoomed out](https://www.youtube.com/watch?v=FbLRaO-yq1Y), Another version but more zoomed out.
 - [Cutting Aluminum Molds on a 3018 CNC](https://youtu.be/Yb_kre3Zwz0), Making molds with a hobby CNC Machine
 - [Recycling Plastic At Home](https://youtu.be/mXXFwO77XmE), Breaking down 3D prints and bottles for use in the machines.
-- [Heating Chamber Cleaning](https://youtu.be/_xt9IpcRtrc), Easy method to clean out the injection Molding chambers.  
+- [Heating Chamber Cleaning](https://youtu.be/_xt9IpcRtrc), Easy method to clean out the injection Molding chambers.
+- [MK2 Updates with PID Tuning](https://youtu.be/1GWBhMkB2vM), MK2 Updates as well as instructions for tuning the Rex PID Controller.
+- [Semi-Automatic version of the MK3 Machine](https://youtu.be/W7IDYLqGYVA), Semi Auto version of the machine where you can set an timed injection. 
+
 
 # Ardunio
 You can find the arduino code for the project in the `/MK4_Automation` directory
