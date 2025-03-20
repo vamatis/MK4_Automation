@@ -1,9 +1,12 @@
-#define ENCODER_DO_NOT_USE_INTERRUPTS
-#include <Encoder.h>
-#include <Wire.h>
+/*MK4 automation code
+This firmware allows to control a BusterBeagle Mk4 machine as a fully autonomous plastic injection machine
+
+03/20/2025
+*/
+
 #include <LiquidCrystal_I2C.h>
-#include <avr/wdt.h>
 #include <Servo.h>
+#include <EEPROM.h>
 
 LiquidCrystal_I2C lcd(0x27, 20, 4);
 
@@ -51,7 +54,7 @@ bool isSequenceActive = false; // Flag to track if the sequence is active
 unsigned long lastSequenceTime = 0; // Store the last time the sequence started
 int partsLeft = 0; // Number of parts left to process
 
-#include <EEPROM.h>
+
 
 void setup() {
   lcd.init();
@@ -358,8 +361,7 @@ void loop() {
 
     // Update LCD to reflect reset values
     updateLCD();
-
-    updateLCD();
+    
     } else if (menuIndex != 6) {
       // Button is pressed, enter value adjustment mode
       valueAdjustment();
