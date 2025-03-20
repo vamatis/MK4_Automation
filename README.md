@@ -22,17 +22,15 @@ Many of these videos give you a better understanding of the evolution of this ma
 - [MK4 Machine working for 15 minutes](https://youtu.be/fdYek-q-E0g), MK4 Machine running for a full 15 mintues uncut. 
 
 
-# Ardunio
+# Arduino
 You can find the arduino code for the project in the `/MK4_Automation` directory
 
 ## Libraries needed
 
 All these libraries can be easily installed using the Arduino IDE library manager.
-- `Encoder` by Paul Stoffregen.
-- `Wire` by Arduino.
 - `LiquidCrystal_I2C` by Frank de Brabander.
-- `avr/wdt` by AVR Libc.
 - `Servo` by Arduino.
+- `EEprom` by Arduino.
 
 ## MK4 BOM
 - You can find the full BOM of the parts needed [HERE](https://docs.google.com/spreadsheets/d/1JVG8-Zt6J-UAuxbnEOaoJAQSUpH0-k1IP8Y7-RxV8Eo/edit?usp=drive_link)
